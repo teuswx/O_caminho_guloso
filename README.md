@@ -25,7 +25,8 @@
     </ol>
 </body>
 
-![478](https://user-images.githubusercontent.com/102326098/225309128-f9cee19f-542e-4d0f-a969-e26244f4dc4f.png)
+![478 (1)](https://user-images.githubusercontent.com/102326098/225345250-6e0903e8-0917-428c-b454-bcdb3fe8dbaa.png)
+
  ## Algoritmo
  <body>
     <p>Para realizar o algoritmo que percorre a matriz os casos específicos foram divididos em passos com cada passo sendo uma estrutura condicional if enquanto o laço     while é verdadeiro. Cada if contém um tratamento específico como mostrado no código exemplo abaixo.</p>
