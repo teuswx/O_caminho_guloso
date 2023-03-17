@@ -1,11 +1,15 @@
 > Status Developing :warning:
 
 # Exercício de Laboratório
+## Problema
+<body>
+    <p>O objetivo é obter o caminho com a maior soma adjacente entre os números contidos na matriz, partindo do ínicio [0][0] até o final [N][N].</p>
+</body>
 
 ## Descrição
 
 <body>
-    <p> O código foi projetado usando a ideia de um algoritmo guloso. O objetivo é percorrer uma matriz quadrada a partir do ponto [0][0] somando todos os maiores números até o ponto[N][N] com N definido pelo usuário, ou ja estabelecido no arquivo de entrada da matriz.</p>
+    <p> O código foi projetado usando a ideia de um algoritmo guloso, percorrendo a matriz quadrada a partir do ponto [0][0] obtendo a maior soma adjacente até o ponto[N][N] com N definido pelo usuário, ou ja estabelecido no arquivo de entrada da matriz.</p>
 </body>
 
 ## Instruções
@@ -29,6 +33,8 @@
 
  ## Algoritmo
  <body>
+    <p>1-Ao inicar, o programa irá ler o arquivo já com o nome padronizado como "input.data", obtendo o tamanho da matriz N que se encontra na primeira linha do arquivo.</p>
+    <p>2-Posteriormente o algoritmo vai criar uma matriz[N][N] para registrar o conteúdo do arquivo. </p>
     <p>Para realizar o algoritmo que percorre a matriz os casos específicos foram divididos em passos com cada passo sendo uma estrutura condicional if enquanto o laço     while é verdadeiro. Cada if contém um tratamento específico como mostrado no código exemplo abaixo.</p>
     <pre>
         <code>
