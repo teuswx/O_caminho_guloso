@@ -1,4 +1,4 @@
-> Status Developing :warning:
+> Status finished :heavy_check_mark:
 
 # Exercício de Laboratório
 ## Problema
