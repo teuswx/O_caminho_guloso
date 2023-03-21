@@ -57,7 +57,7 @@
             }
         </code>
     </pre>
-    <p>4-Ao final o programa retorna a soma de todos os caminhos adjacentes das matrizes.</p>
+    <p>4-Ao final, o programa retorna a soma de todos os caminhos adjacentes das matrizes.</p>
    
 </body>
  Obs..
