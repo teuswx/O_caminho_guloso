@@ -62,7 +62,7 @@
 </body>
  Obs..
     <p>O programa roda enquanto o arquivo não chega ao final.</p>
-    <p>O algoritmo funciona apenas com dados do tipo inteiro.</p>
+    <p>O algoritmo funciona apenas com dados do tipo inteiro positivo.</p>
       
  ## Exemplo de execução
  <body>
