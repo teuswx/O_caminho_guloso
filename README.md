@@ -1,6 +1,6 @@
 > Status finished :heavy_check_mark:
 
-# Exercício de Laboratório
+# O caminho Guloso
 ## Problema
 <body>
     <p>O objetivo é obter o caminho com a maior soma adjacente entre os números contidos na matriz, partindo do ínicio [0][0] até o final [N][N].</p>
